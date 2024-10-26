@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>User22qt.png</file>
+        <file>userinqt2.png</file>
+        <file>whatqt2.png</file>
+        <file>clipart29127392.png</file>
+        <file>telegaqt2.png</file>
+        <file>pnguser2.png</file>
+        <file>greycol2.jpeg</file>
+        <file>minionpng2.png</file>
+        <file>minionicon.icns</file>
+        <file>deveqt2.png</file>
+    </qresource>
+</RCC>
